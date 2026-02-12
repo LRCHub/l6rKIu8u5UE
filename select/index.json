@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "Everything Burns",
+  "base_artist": "Tom Morello",
+  "createdAt": "2026-02-12T12:29:34.791293Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Ben Moody feat. Anastasia",
+      "has_synced": true,
+      "path": "select/01_Everything_Burns_Ben_Moody_feat._Anastasia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Ben Moody Feat. Anastacia",
+      "has_synced": true,
+      "path": "select/02_Everything_Burns_Ben_Moody_Feat._Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Ben Moody Feat. Anastacia",
+      "has_synced": true,
+      "path": "select/03_Everything_Burns_Ben_Moody_Feat._Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Ben Moody feat Anastacia",
+      "has_synced": false,
+      "path": "select/04_Everything_Burns_Ben_Moody_feat_Anastacia.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Ben Moody Feat. Anastacia",
+      "has_synced": true,
+      "path": "select/05_Everything_Burns_Ben_Moody_Feat._Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Anastacia featuring Ben Moody feat. Ben Moody",
+      "has_synced": true,
+      "path": "select/06_Everything_Burns_Anastacia_featuring_Ben_Moody_feat._Ben_Moody.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/07_Everything_Burns_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Ben Moody Ft. Anastacia",
+      "has_synced": true,
+      "path": "select/08_Everything_Burns_Ben_Moody_Ft._Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everything Burns (in Memoriam)",
+      "artist": "Ben Moody",
+      "has_synced": true,
+      "path": "select/09_Everything_Burns_(in_Memoriam)_Ben_Moody.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Ben Moody Ft. Anastacia",
+      "has_synced": true,
+      "path": "select/10_Everything_Burns_Ben_Moody_Ft._Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Death Therapy",
+      "has_synced": true,
+      "path": "select/11_Everything_Burns_Death_Therapy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "James Durbin",
+      "has_synced": true,
+      "path": "select/12_Everything_Burns_James_Durbin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everything Burns (with Ben Moody)",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/13_Everything_Burns_(with_Ben_Moody)_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everything Burns (feat. Anastacia)",
+      "artist": "Ben Moody",
+      "has_synced": true,
+      "path": "select/14_Everything_Burns_(feat._Anastacia)_Ben_Moody.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everything Burns",
+      "artist": "Ben Moody/Anastacia",
+      "has_synced": true,
+      "path": "select/15_Everything_Burns_Ben_Moody_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Everything She Ain’t",
+      "artist": "Hailey Whitters",
+      "has_synced": true,
+      "path": "select/16_Everything_She_Ain’t_Hailey_Whitters.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Everything I Love",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/17_Everything_I_Love_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Everything That Glitters (Is Not Gold)",
+      "artist": "Dan Seals",
+      "has_synced": true,
+      "path": "select/18_Everything_That_Glitters_(Is_Not_Gold)_Dan_Seals.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Hate Everything - 50 Number Ones Version",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/19_I_Hate_Everything_-_50_Number_Ones_Version_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Hate Everything (50 Number Ones Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/20_I_Hate_Everything_(50_Number_Ones_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Looks Aren't Everything",
+      "artist": "Mark Collie",
+      "has_synced": false,
+      "path": "select/21_Looks_Aren't_Everything_Mark_Collie.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Money Ain't Everything",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/22_Money_Ain't_Everything_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Money Ain't Everything (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/23_Money_Ain't_Everything_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "She's Everything",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/24_She's_Everything_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "There Goes My Everything",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/25_There_Goes_My_Everything_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Your Everything",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/26_Your_Everything_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Everything",
+      "artist": "王力宏",
+      "has_synced": false,
+      "path": "select/27_Everything_王力宏.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Everything Back But You",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/28_Everything_Back_But_You_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Everything In The World",
+      "artist": "Wanting",
+      "has_synced": true,
+      "path": "select/29_Everything_In_The_World_Wanting.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everything Burns (feat. Beartooth)",
+      "artist": "Tom Morello",
+      "has_synced": false,
+      "path": "select/pl_01_Everything_Burns_(feat._Beartooth)_Tom_Morello.txt"
+    }
+  ]
+}
